@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan php-ext:install:*)",
+      "Bash(tar:*)",
+      "Bash(python:*)",
+      "Bash(dir)",
+      "Bash(choco:*)",
+      "Bash(php:*)",
+      "Bash(composer:*)",
+      "Bash(where:*)",
+      "Bash(./static-php-cli/buildroot/bin/php.exe -m)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
