@@ -12,6 +12,13 @@ A Laravel 12 desktop application built with NativePHP/Electron that demonstrates
 - 🚀 **One-Command Build** - Interactive CLI for building custom PHP binaries
 - ✅ **CRUD Operations** - Demonstrate database functionality with add, view, and delete operations
 
+## Tested Platforms
+
+The bundled PHP binaries and NativePHP app have been validated on both **macOS** and **Windows** with the extended driver set (MySQL, PostgreSQL, and SQL Server on Windows). The screenshots below capture the macOS build running the database switcher; Windows builds include the additional SQL Server driver stack.
+
+![MySQL driver running on macOS](public/mysql.png)
+![PostgreSQL driver running on macOS](public/pgsql.png)
+
 ## Requirements
 
 ### For Development
